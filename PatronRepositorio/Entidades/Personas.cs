@@ -10,7 +10,7 @@ namespace PatronRepositorio.Entidades
     public class Personas
     {
         [Key]
-        public int IdPersona { get; set; }
+        public int Idpersona { get; set; }
         public int Dni { get; set; }
         public string Nombre { get; set; }
         public string Materno { get; set; }
@@ -25,7 +25,7 @@ namespace PatronRepositorio.Entidades
 
         public Personas()
         {
-            IdPersona = 0;
+            Idpersona = 0;
             Dni = 0;
             Nombre = string.Empty;
             Materno = string.Empty;
