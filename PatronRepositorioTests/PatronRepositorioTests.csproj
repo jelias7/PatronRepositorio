@@ -68,6 +68,7 @@
     <Compile Include="BLL\CategoriasTests.cs" />
     <Compile Include="BLL\ClientesTests.cs" />
     <Compile Include="BLL\ComprasTests.cs" />
+    <Compile Include="BLL\DetalleComprasTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
