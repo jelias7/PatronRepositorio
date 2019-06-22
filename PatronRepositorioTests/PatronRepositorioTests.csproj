@@ -74,6 +74,7 @@
     <Compile Include="BLL\EstadosTests.cs" />
     <Compile Include="BLL\ImagenesTests.cs" />
     <Compile Include="BLL\MarcasTests.cs" />
+    <Compile Include="BLL\ModelosTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
